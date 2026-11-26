@@ -18,11 +18,11 @@ A wall-mounted, string-driven 2-axis Polargraph (V-plotter) built with an Arduin
 
 | Build Setup | Final Output |
 | :---: | :---: |
-| ![Build Setup](media/build.jpg) | ![Final Output](media/result.jpg) |
+| ![Build Setup](media/build.jpeg) | ![Final Output](media/result.jpeg) |
 
 ## Hardware & Wiring
 
-![Polargraph Plotter Wiring Schematic](docs/wiring_schematic.jpg)
+![Polargraph Plotter Wiring Schematic](docs/wiring_schematic.png)
 
 ### What's Inside
 
