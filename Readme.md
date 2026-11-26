@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/d5c3d3a7-8b8f-4837-b390-759639a9d0f2
+
+
+
+
+
 # Polargraph Plotter
 
 A wall-mounted, string-driven 2-axis Polargraph (V-plotter) built with an Arduino UNO, CNC Shield V3, DRV8825 stepper drivers, and NEMA 17 motors. Drop in any SVG drawing and let the machine plot it directly onto a whiteboard.
