@@ -101,8 +101,3 @@ python polargraph.py yourfile.svg --simulate
 3. Place the marker tip directly on your **HOME** dot and press **Enter** to set zero.
 4. Press **Enter** again to start drawing.
 5. Press **`Ctrl + C`** at any time to stop safely.
-<<<<<<< HEAD
-=======
-
-
->>>>>>> abdb705c7b07da6016406d3cada6a80e74523f2b
