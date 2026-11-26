@@ -91,14 +91,3 @@ python polargraph.py yourfile.svg --simulate
 3. Place the marker tip directly on your **HOME** dot and press **Enter** to set zero.
 4. Press **Enter** again to start drawing.
 5. Press **`Ctrl + C`** at any time to stop safely.
-
-### Handy Options
-
-* **Draw slower** (if the marker skips): add `--speed 15`
-* **Keep exact original size** (instead of auto-fitting to the board): add `--scale 1`
-
-## Quick Tips
-
-* **Strings slipping or sagging?** Use braided fishing line instead of regular thread, and tie both strings as close to the pen tip as possible.
-* **Drawing looks stretched or curved?** Re-run `python calibrate.py` with a ruler—99% of distortion is just calibration.
-* **Motors buzzing without moving?** Slowly turn up the current limit screw on the DRV8825 drivers, and check that the 12 V supply is on.
