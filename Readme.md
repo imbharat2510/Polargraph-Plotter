@@ -1,3 +1,13 @@
+
+
+
+
+
+
+Uploading demonstration.mp4…
+
+
+
 # Polargraph Plotter
 
 A wall-mounted, string-driven 2-axis Polargraph (V-plotter) built with an Arduino UNO, CNC Shield V3, DRV8825 stepper drivers, and NEMA 17 motors. Drop in any SVG drawing and let the machine plot it directly onto a whiteboard.
@@ -91,3 +101,8 @@ python polargraph.py yourfile.svg --simulate
 3. Place the marker tip directly on your **HOME** dot and press **Enter** to set zero.
 4. Press **Enter** again to start drawing.
 5. Press **`Ctrl + C`** at any time to stop safely.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> abdb705c7b07da6016406d3cada6a80e74523f2b
